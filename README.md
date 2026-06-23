@@ -28,18 +28,6 @@
 | 🌙 **深色模式** | 完整适配系统深色主题 |
 | 🗺️ **地图模式** | 在地图上查看线路站点和车辆位置 |
 
-## 📸 应用截图
-
-<div align="center">
-
-| 主页 | 线路详情 | 换乘查询 | 到站提醒 |
-|:---:|:---:|:---:|:---:|
-| ![主页](screenshots/home.png) | ![线路详情](screenshots/detail.png) | ![换乘查询](screenshots/transfer.png) | ![到站提醒](screenshots/alert.png) |
-
-</div>
-
-> 📌 截图待补充，欢迎提交 PR
-
 ## 🛠️ 技术栈
 
 - **语言** — Kotlin
