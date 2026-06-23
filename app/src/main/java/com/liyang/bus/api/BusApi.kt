@@ -13,7 +13,7 @@ import kotlin.coroutines.suspendCoroutine
 
 object BusApi {
     private const val BASE = "https://www.ly-xing.com/"
-    private const val PHONE = "j+iLpIfHcsJT7TrMRYtcBw"
+    private const val PHONE = ""
     private val client = OkHttpClient.Builder()
         .connectTimeout(10, TimeUnit.SECONDS)
         .readTimeout(10, TimeUnit.SECONDS)
