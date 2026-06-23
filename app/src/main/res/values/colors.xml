@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MiuiX 主色 -->
+    <color name="mi_orange">#FF6900</color>
+    <color name="mi_orange_light">#FFF3E8</color>
+    <color name="mi_orange_dark">#E55D00</color>
+
+    <!-- 背景色 -->
+    <color name="mi_bg">#F5F5F5</color>
+    <color name="mi_bg_dark">#1A1A1A</color>
+
+    <!-- 卡片 -->
+    <color name="mi_card">#FFFFFF</color>
+    <color name="mi_card_dark">#2A2A2A</color>
+
+    <!-- 文字 -->
+    <color name="mi_text_primary">#1A1A1A</color>
+    <color name="mi_text_secondary">#999999</color>
+    <color name="mi_text_hint">#CCCCCC</color>
+
+    <!-- 分割线 -->
+    <color name="mi_divider">#F0F0F0</color>
+
+    <!-- 状态 -->
+    <color name="mi_success">#4CAF50</color>
+    <color name="mi_warning">#FF9800</color>
+    <color name="mi_danger">#FF4444</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- UI 组件颜色 -->
+    <color name="mi_ripple">#20000000</color>
+    <color name="mi_separator">#EEEEEE</color>
+    <color name="mi_overlay_bg">#F5F5F5</color>
+    <color name="mi_input_bg">#F2F2F2</color>
+    <color name="mi_search_border">#E0E0E0</color>
+    <color name="mi_popup_border">#E8E8E8</color>
+    <color name="mi_avatar_bg">#FFF3E8</color>
+
+    <!-- 状态栏/导航栏 -->
+    <color name="mi_status_bar">#F5F5F5</color>
+    <color name="mi_nav_bar">#FFFFFF</color>
+</resources>
